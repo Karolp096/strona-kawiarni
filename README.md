@@ -1,7 +1,7 @@
 
 # Strona internetowa fikcyjnej kawiarni
 
-**Przykładowa strona internetowa kawiarni zawierająca podstawowe informacje o niej, takie jak kontakt czy godziny otwarcia.**
+**Przykładowa strona internetowa kawiarni zawierająca podstawowe informacje o niej.**
 
 ![Strona główna](readme-img/strona-glowna.png)
 *Strona główna*
